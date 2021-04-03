@@ -95,7 +95,7 @@ h1, h2, h3, h4,h5 ,h6 {
   font-weight: 500;
   position: relative;
   z-index: 1;
-  padding : 5%;
+  padding-bottom : 7%;
 }
 .features-box {
   padding: 5%;
